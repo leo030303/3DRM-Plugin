@@ -1,0 +1,14 @@
+{
+    "author": {
+        "author_id": "LeoRing",
+        "display_name": "LeoRing",
+        "email": "leoring03@gmail.com"
+    },
+    "description": "Allows reading of DRM files.",
+    "display_name": "3DRM",
+    "package_id": "3DRMPack",
+    "package_type": "plugin",
+    "package_version": "1.0.0",
+    "sdk_version": 5,
+    "sdk_version_semver": "${sdk_version}"
+}
