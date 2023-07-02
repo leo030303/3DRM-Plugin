@@ -1,2 +1,4 @@
 cd Documents/Personal_Coding_Projects/3DRM/3DRM_plugin
 mkdir build && cd build && cmake .. && make  pack && cd ..
+
+test
